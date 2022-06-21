@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verdancy
 - 👀 I’m interested in programming
-- 🌱 I’m currently studing Nanotechnology on Univeristy of Technology
+- 🌱 I’m currently studing Nanotechnology on Gdańsk University of Technology
 - 📫 How to reach me: Verdancyofficial@gmail.com
 
 <!---
