@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @Verdancy
 - 👀 I’m interested in programming
-- 🌱 I’m currently studing Nanotechnology on Gdańsk University of Technology
+- 🌱 I’m currently looking for a job.
 - 📫 How to reach me: Verdancyofficial@gmail.com
-
-<!---
-Verdancy/Verdancy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
