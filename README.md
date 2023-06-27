@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Verdancy
 - 👀 I’m interested in programming
-- 🌱 I’m currently looking for a job.
 - 📫 How to reach me: Verdancyofficial@gmail.com
